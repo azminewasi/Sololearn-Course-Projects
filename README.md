@@ -1,8 +1,8 @@
 # sololearn-course-projects
 
 1. Sololearn - Data Science
-## Data Science - Average of Rows
-## Data Science - Missing Numbers
+- Data Science - Average of Rows
+- Data Science - Missing Numbers
 > Data Science - Reshape
 > Ordinary Squares
 > Pandas Pamdas Pandas

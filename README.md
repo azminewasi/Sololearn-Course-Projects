@@ -1,4 +1,4 @@
-# sololearn-course-projects
+# Sololearn-course-projects
 
 1. Sololearn - Data Science
 - Data Science - Average of Rows
@@ -23,5 +23,9 @@
 -	Cakes
 -	Zoo
 
-
 4. Sololearn - Machine Learning
+
+
+---
+
+You are invited to collaborate.
